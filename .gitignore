@@ -1,0 +1,4 @@
+parent/.vscode
+parent/dataset/
+*.exe
+child/.vscode
